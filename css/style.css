@@ -1,0 +1,43 @@
+body {
+    padding: 50px;
+    background-color: rgba(195, 197, 212, 0.785);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: 0px 8px 50px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-page {
+    max-width: 1200px;
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    padding-bottom: 500px;
+    box-shadow: 0px 8px 50px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.form-group, h3, h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.link, p{
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.index-link {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.smart-captcha, a {
+    margin: 15px 0px 15px;
+}
